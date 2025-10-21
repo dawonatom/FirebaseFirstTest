@@ -110,18 +110,18 @@ A continuación, se muestra el flujo de la aplicación realizando las 4 operacio
 
 Se inicia la aplicación y se selecciona la opción 1 para agregar dos estudiantes: "Ana" y "Carlos".
 
-![Captura de Crear usuarios](./img/img.png).
+![Captura de Crear usuarios](./img/img.png)
 
 ### 2\. Leer (Read)
 
 Se selecciona la opción 2 para verificar que los estudiantes fueron creados. Firebase les asignó IDs únicos.
 
-![Captura de la función de Leer](./img/img2.png).
+![Captura de la función de Leer](./img/img2.png)
 
 ### 3\. Actualizar (Update)
 
 Se selecciona la opción 3. Se usa el ID de "Ana" para actualizar su curso de "Python Básico" a "Python Intermedio".
 
-![Captura de la función de Actualizar](./img/img3.png).
+![Captura de la función de Actualizar](./img/img3.png)
 
 
