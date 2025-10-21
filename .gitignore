@@ -1,0 +1,7 @@
+# Archivos de entorno y credenciales
+.env
+*.json
+
+# Caché de Python
+__pycache__/
+*.pyc
